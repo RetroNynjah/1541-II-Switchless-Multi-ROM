@@ -6,6 +6,8 @@ No computer modifications or drive enclosure modifications needed. Completely re
 
 Read the user's guide for more information.
 
+<img src="rev2\images\3dpcb-top.png" alt="Render top" height="800"/>  <img src="rev2\images\3dpcb-bottom.png" alt="Render bottom" height="800"/><br/>
+
 ## BOM
  |Component|Pcs |Name|Comment|
  |:--------|---:|:---|:------|
@@ -21,7 +23,3 @@ Read the user's guide for more information.
  | ECS-160-20-3X-TR | 1 | XTAL1 | Crystal 16MHz |
  | 14 pin header | 2 | "IC3" | Male machined pin headers or flat headers. 2.54mm pitch. To fit DIL-28 socket. |
  | 6 pin header right-angled | 1 | JP1 | Optional 2.54mm pitch. For ISP programmer. |
- 
-<img src="rev2\images\3D-pcb-top.png" alt="Render top" width="800"/><br/>
-
-<img src="rev2\images\3D-pcb-bottom.png" alt="Render top" width="800"/><br/>
