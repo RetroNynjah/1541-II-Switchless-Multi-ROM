@@ -22,3 +22,6 @@ Read the user's guide for more information.
  | 14 pin header | 2 | "IC3" | Male machined pin headers or flat headers. 2.54mm pitch. To fit DIL-28 socket. |
  | 6 pin header right-angled | 1 | JP1 | Optional 2.54mm pitch. For ISP programmer. |
  
+<img src="rev2\images\3D-pcb-top.png" alt="Render top" width="800"/><br/>
+
+<img src="rev2\images\3D-pcb-bottom.png" alt="Render top" width="800"/><br/>
