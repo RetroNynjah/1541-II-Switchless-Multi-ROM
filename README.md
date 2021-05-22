@@ -11,10 +11,10 @@ Read the user's guide for more information.
 ## BOM
  |Component|Pcs |Name|Comment|
  |:--------|---:|:---|:------|
- | SST39SF010A | 1 | IC1 | 32PLCC Flash. SST39SF020/040 should work too.|
- | ATMEGA328P-AU | 1 | IC2 | 32TQFP |
- | 74AHCT273NSR | 1 | IC4 | 20-SO (5.3mm width) |
- | 741G04 | 1 | IC5 | Inverter single gate SOT-23 |
+ | SST39SF010A | 1 | IC1 | Flash. SST39SF020/040 should work too. PLCC-32 |
+ | ATMEGA328P-AU | 1 | IC2 | Or compatible ATmega8/48/88/168/328 variants. TQFP-32 |
+ | 74AHCT273NSR | 1 | IC4 | Flip-Flop SO-20 (5.3mm width) |
+ | 74AHCT1G04 | 1 | IC5 | Inverter single gate SOT-23 |
  | 100nF ceramic capacitor | 4 | C1, C2, C3, C4 | 0805 |
  | 30pF ceramic capacitor | 2 | C5, C6 | 0805 - 22pF works too |
  | 10k resistor | 1 | R1 | 0805 |
