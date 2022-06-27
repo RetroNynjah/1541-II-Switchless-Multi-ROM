@@ -6,6 +6,8 @@ No computer modifications or drive enclosure modifications needed. Completely re
 
 Read the user's guide for more information.
 
+# A new revision of this board has been released under the more generic name [Switchless Multi-ROM for 27128 & 27256](https://github.com/RetroNynjah/Switchless-Multi-ROM-for-27128-27256)
+
 <img src="rev2\images\3dpcb-top.png" alt="Render top" height="800"/>  <img src="rev2\images\3dpcb-bottom.png" alt="Render bottom" height="800"/><br/>
 
 ## BOM
